@@ -1,4 +1,4 @@
-# ubuntu-version-cheat-sheet
+# ubuntu-versions-cheat-sheet
 about versions, names and versions
 
 | version | code name | python | go | debhelper | end of standard suppport | eol |
