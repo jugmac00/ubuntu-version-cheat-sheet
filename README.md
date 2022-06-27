@@ -1,7 +1,7 @@
 # ubuntu-versions-cheat-sheet
 about versions, names and versions
 
-| version | code name | python | go | debhelper | end of standard suppport | eol |
+| version | code name | python | go | debhelper | end of standard support | eol |
 |---|---|---|---|---|---|---|
 | 14.04 | trusty tahr | 2.7.5 + 3.4 | ? | 9 | 04/2019 | 04/2024 |
 | 16.04 | xenial xerus | 3.5 | ? | 9 | 04/2021 | 04/2026 |
